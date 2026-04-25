@@ -39,7 +39,7 @@ foreach ($img in $images) {
     $name = $img.Name
     $fullPath = $img.FullName
     $date = $img.LastWriteTime.ToString("yyyy-MM-dd HH:mm:ss")
-    $size = "3840x2160"
+    $resolution = "3840x2160"
     $player = "system_mini"
 
     # 计算 SHA256
@@ -63,7 +63,7 @@ foreach ($img in $images) {
             path    = $baseUrl + $name
             player  = $player
             date    = $date
-            size    = $size
+            resolution    = $resolution
             sha256  = $sha
         }
         $jsonList += $newItem
