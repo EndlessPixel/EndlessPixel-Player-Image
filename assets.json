@@ -110,5 +110,26 @@
     "date": "2026-04-25 01:16:06",
     "size": "3840x2160",
     "sha256": "7C7BDA6FF54856BD67F7D851FE32058DB1A5D10EEB5463437A5495864D7ACE4E"
+  },
+  {
+    "path": "https://raw.githubusercontent.com/EndlessPixel/EndlessPixel-Player-Image/main/assets/huge_2026-04-25_09.30.39.png",
+    "player": "system_mini",
+    "date": "2026-04-25 09:30:39",
+    "size": "3840x2160",
+    "sha256": "DFA3459A4E2587AE6A3C046E156FE8FD9FC84DB82A2DE532E65C13D0EA15769E"
+  },
+  {
+    "path": "https://raw.githubusercontent.com/EndlessPixel/EndlessPixel-Player-Image/main/assets/huge_2026-04-25_09.29.02.png",
+    "player": "system_mini",
+    "date": "2026-04-25 09:29:02",
+    "size": "3840x2160",
+    "sha256": "4E885016D277DCC75528D6123BC0BAFD6D84B938FF85DFA72D3526E5D5CBEF49"
+  },
+  {
+    "path": "https://raw.githubusercontent.com/EndlessPixel/EndlessPixel-Player-Image/main/assets/huge_2026-04-25_09.29.58.png",
+    "player": "system_mini",
+    "date": "2026-04-25 09:29:58",
+    "size": "3840x2160",
+    "sha256": "C29505D91BFCC1EC262778F529EBBC8FFBA4AF8B69B687F5E08E8E361444AAC9"
   }
 ]
