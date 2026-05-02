@@ -151,4 +151,13 @@
     "size": "16.8MB",
     "sha256": "C29505D91BFCC1EC262778F529EBBC8FFBA4AF8B69B687F5E08E8E361444AAC9"
   }
+  ,
+  {
+    "path": "https://raw.githubusercontent.com/EndlessPixel/EndlessPixel-Player-Image/main/assets/huge_2026-05-02_18.03.49.png",
+    "player": "system_mini",
+    "date": "2026-05-02 18:03:49",
+    "resolution": "3840x2160",
+    "size": "12.8MB",
+    "sha256": "D436395C736A0A989DE624CABD758CDF5A58EFB30EAAC9B968B789A1689735CC"
+  }
 ]
