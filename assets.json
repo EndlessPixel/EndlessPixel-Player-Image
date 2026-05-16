@@ -159,5 +159,13 @@
     "resolution": "3840x2160",
     "size": "12.8MB",
     "sha256": "D436395C736A0A989DE624CABD758CDF5A58EFB30EAAC9B968B789A1689735CC"
+  },
+  {
+    "path": "https://raw.githubusercontent.com/EndlessPixel/EndlessPixel-Player-Image/main/assets/huge_2026-05-16_20.02.00.png",
+    "player": "seqadis8wah",
+    "date": "2026-05-16 20:02:00",
+    "resolution": "1920x1080",
+    "size": "3.45MB",
+    "sha256": "144FAF19B0BAD6DDB4813A95DB7D141BD9D7495E99AF60828AE62988F1D4EE00"
   }
 ]
