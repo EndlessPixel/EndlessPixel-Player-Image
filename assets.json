@@ -1,5 +1,53 @@
 [
   {
+    "path": "/assets/2025-04-05_22.56.16_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:56:16",
+    "resolution": "3840x2160",
+    "size": "8.95MB",
+    "sha256": "C8221ECC414CB28CFF323D91CF5F81B2824C80FCA26427F8A6D084CDF62D1471"
+  },
+  {
+    "path": "/assets/2025-04-05_22.55.20_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:55:20",
+    "resolution": "3840x2160",
+    "size": "9.40MB",
+    "sha256": "A49A2A1FD7E7C2BEA1582C038C27F7234A24843374F7328D8DF5AC969BFCD9E3"
+  },
+  {
+    "path": "/assets/2025-04-05_22.54.54_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:54:54",
+    "resolution": "3840x2160",
+    "size": "11.00MB",
+    "sha256": "4C4BB234A9394C18540E2DD042208040D1D02FCDD62BA748B73EDCFA056909BD"
+  },
+  {
+    "path": "/assets/2025-04-05_22.54.39_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:54:39",
+    "resolution": "3840x2160",
+    "size": "9.64MB",
+    "sha256": "B562B16B3CFD68D8EEC45BBB9A96317E46DD3C31441B723D52F1E873A98A0C00"
+  },
+  {
+    "path": "/assets/2025-04-05_22.54.28_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:54:28",
+    "resolution": "3840x2160",
+    "size": "10.70MB",
+    "sha256": "497986D1A5D4E912DABADFA924974424F8E45BD3CCCEDFE504BDAC4C2A81F143"
+  },
+  {
+    "path": "/assets/2025-04-05_22.54.08_4K.png",
+    "player": "system_mini",
+    "date": "2025-04-05 22:54:08",
+    "resolution": "3840x2160",
+    "size": "7.87MB",
+    "sha256": "487C64269ED5C5FBE33BE030FE5F4853E9A368BE0340A89A974EE57BA02C761B"
+  },
+  {
     "path": "/assets/huge_2026-02-17_16.34.17.png",
     "player": "system_mini",
     "date": "2026-02-17 16:34:17",
