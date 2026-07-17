@@ -215,5 +215,13 @@
     "resolution": "1920x1080",
     "size": "3.45MB",
     "sha256": "144FAF19B0BAD6DDB4813A95DB7D141BD9D7495E99AF60828AE62988F1D4EE00"
+  },
+  {
+    "path": "/assets/huge_2026-07-18_00.44.31.png",
+    "player": "system_mini",
+    "date": "2026-07-18 00:44:31",
+    "resolution": "1920x1080",
+    "size": "2.00MB",
+    "sha256": "96DEBC8C8FDF0E4DA748A0298A40B67AB7395C34CADD86C2039ACC331CC44D2D"
   }
 ]
