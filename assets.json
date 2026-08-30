@@ -231,5 +231,37 @@
     "resolution": "3840x2160",
     "size": "15.34MB",
     "sha256": "2CBDAB64A7A04EB739DB97E2F11ADE6E5CB673C1BAA9A7BAD38406CF2408B65B"
+  },
+{
+    "path": "/assets/huge_2026-08-15_16.49.09.png",
+    "player": "system_mini",
+    "date": "2026-08-15 16:49:09",
+    "resolution": "3840x2160",
+    "size": "15.94MB",
+    "sha256": "C6AEF29918345D0E5AED25E0A99875171F70800867076818701439739588239D"
+  },
+  {
+    "path": "/assets/huge_2026-08-16_16.02.59.png",
+    "player": "system_mini",
+    "date": "2026-08-16 16:02:59",
+    "resolution": "3840x2160",
+    "size": "15.74MB",
+    "sha256": "95923C535A758141CE0DA39123328B736CDA5F0FC6CBAFEFCA7EE53B4EF53178"
+  },
+  {
+    "path": "/assets/huge_2026-08-16_16.03.16.png",
+    "player": "system_mini",
+    "date": "2026-08-16 16:03:16",
+    "resolution": "3840x2160",
+    "size": "16.39MB",
+    "sha256": "465C09920BB7342603FE9AE38B4DB7DB65385E366F0A043A24636014385796C7"
+  },
+  {
+    "path": "/assets/huge_2026-08-16_16.03.46.png",
+    "player": "system_mini",
+    "date": "2026-08-16 16:03:46",
+    "resolution": "3840x2160",
+    "size": "15.22MB",
+    "sha256": "35C7C7D55C0F0196FA42678C8B53AB79782F7C49C135DAD41EB821CD7C04877F"
   }
 ]
